@@ -1,0 +1,10 @@
+# Asset Library / Download ZIP: ship addons/ only.
+/android         export-ignore
+/tests           export-ignore
+/main.gd         export-ignore
+/main.gd.uid     export-ignore
+/main.tscn       export-ignore
+/project.godot   export-ignore
+/export_presets.cfg export-ignore
+/.gitignore      export-ignore
+/.gitattributes  export-ignore
