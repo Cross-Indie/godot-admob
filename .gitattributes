@@ -1,5 +1,6 @@
 # Asset Library / Download ZIP: ship addons/ only.
 /android         export-ignore
+/media           export-ignore
 /tests           export-ignore
 /main.gd         export-ignore
 /main.gd.uid     export-ignore
